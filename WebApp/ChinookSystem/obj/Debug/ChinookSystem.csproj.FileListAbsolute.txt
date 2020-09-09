@@ -1,0 +1,7 @@
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\bin\Debug\ChinookSystem.dll
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\bin\Debug\ChinookSystem.pdb
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\obj\Debug\ChinookSystem.csproj.CoreCompileInputs.cache
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\obj\Debug\ChinookSystem.csproj.CopyComplete
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\obj\Debug\ChinookSystem.dll
+C:\Users\Fazal\Documents\GitHub\2018Demos\WebApp\ChinookSystem\obj\Debug\ChinookSystem.pdb
