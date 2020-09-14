@@ -35,6 +35,7 @@
       <HintPath>..\packages\AspNet.ScriptManager.bootstrap.4.5.2\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,8 +47,9 @@
   <ItemGroup>
     <Compile Include="BLL\dummy.cs" />
     <Compile Include="BLL\Dummy2.cs" />
-    <Compile Include="DAL\dummy.cs" />
-    <Compile Include="Entities\dummy.cs" />
+    <Compile Include="DAL\ChinookSystemContext.cs" />
+    <Compile Include="Entities\Album.cs" />
+    <Compile Include="Entities\Artist.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\dummy.cs" />
   </ItemGroup>
